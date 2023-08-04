@@ -1,4 +1,3 @@
-// Lab Program 1
 // Quicksort (divide & conquer)
 // Avg/Best Time Complexity: O(n*log(n))
 // Worst Time Complexity: O(n^2)

@@ -1,4 +1,3 @@
-// Lab Program 2
 // Mergesort (divide & conquer)
 // Avg/Best/Worst Time Complexity: O(n*log(n))
 

@@ -24,6 +24,7 @@ void read_adjacency_matrix(int a[10][10], int n)
 void floyds_algo(int a[10][10], int n)
 {
     int i, j, k;
+    //intermediate vertex k
     for(k = 0; k < n; k++)
     {
         for(i = 0; i < n; i++)

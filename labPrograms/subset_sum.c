@@ -1,6 +1,6 @@
 // Lab Program 8
 // Subset Sum Problem using backtracking
-// Time Complexity:  O(2^N)
+// Time Complexity: O(2^N)
 #include<stdio.h>
 int w[10], x[10], i, n, r, d, count, flag = 1;
 

@@ -1,5 +1,5 @@
 // Lab Program 5
-// Floyd's Algorithm
+// Floyd's Algorithm (dynamic programming)
 // All pairs shortest paths
 
 #include<stdio.h>

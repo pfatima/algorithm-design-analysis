@@ -1,5 +1,6 @@
-// Euclid's Algorithm to find GCD (decrease and conquer)
-
+// Euclid's Algorithm to find GCD 
+// (decrease and conquer)
+// Variable size decrease
 #include<stdio.h>
 
 void swap(int *a, int *b)

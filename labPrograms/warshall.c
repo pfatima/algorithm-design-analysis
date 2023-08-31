@@ -1,6 +1,6 @@
 // Lab Program 4
-// Warshall's Algorithm
-
+// Warshall's Algorithm (dynamic programming)
+// find transitive closure
 
 #include<stdio.h>
 

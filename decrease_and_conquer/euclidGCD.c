@@ -12,7 +12,6 @@ void swap(int *a, int *b)
 
 int gcd(int m, int n)
 {
-    int r;
     if (m < n)
         swap(&m, &n);
     if((m % n) == 0)
